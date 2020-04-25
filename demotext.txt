@@ -19,3 +19,9 @@ to bracnh second commit
 
 
 some content
+
+
+
+
+
+Content for resolving conflicts - added in master
