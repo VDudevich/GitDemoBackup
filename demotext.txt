@@ -1,6 +1,7 @@
 HEADER added
 
 
+
 hello word
 Hello world
 new row
@@ -25,3 +26,5 @@ some content
 
 
 Content for resolving conflicts - added in master
+
+text in feature branch
